@@ -1,0 +1,24 @@
+{
+  "name": "income-expense-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "14.17.3",
+    "npm": "6.14.13"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.18.1",
+    "moment": "^2.29.4",
+    "mongoose": "^6.6.4",
+    "nodemon": "^2.0.20",
+    "validator": "^13.7.0"
+  }
+}
