@@ -1,11 +1,11 @@
 //deployement on render
 link "https://pft-72uo.onrender.com/"
 
-//mockups
+//mockups protoype
 link "https://www.figma.com/proto/GsBrygbdmG6auxt0vAdaJ4/PERSONAL-FINANCE-TRACKER?type=design&node-id=5-22&t=JWu2GnpfuaIRqH2L-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=5%3A22"
 
-
-
+//mockup  design
+https://www.figma.com/file/GsBrygbdmG6auxt0vAdaJ4/PERSONAL-FINANCE-TRACKER?type=design&node-id=0%3A1&mode=design&t=JWu2GnpfuaIRqH2L-1
  
 
 
