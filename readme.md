@@ -41,3 +41,8 @@ This Personal Finance Tracker provides a visual representation of your financial
 Charts:  pie charts can visually display trends in your income and expenses over time, by category, or based on other criteria.
 Data Selection: Users might be able to select specific date ranges, categories, or filters to customize the visual representation.
 
+TECHNOLOGIES USED
+
+" MERN "
+
+
